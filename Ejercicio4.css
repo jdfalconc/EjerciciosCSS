@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+}
+.barraLateral{
+    width: 300px;
+    height: 100%;
+    margin-left:0;
+    background-color: green;
+}
+.listaEnlaces {
+    width: 90%;
+    margin:0;
+    padding:0;
+}
+.listaEnlaces li{
+    text-align: center;
+    list-style:none;
+    margin-left:24px;
+}
+
+.listaEnlaces a{
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+}
+.listaEnlaces li:hover {
+    background-color: rgb(3, 68, 3);
+}
