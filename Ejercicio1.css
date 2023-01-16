@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI'
+}
+h1 {
+    font-weight: bold;
+    font-size: 24px;
+}
+.Parrafo1 {
+    border-color: pink;
+    border-style: dotted;
+    font-style: italic;
+}
