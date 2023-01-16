@@ -1,0 +1,15 @@
+.menuNavegacion {
+    margin:0;
+    background-color: black;
+    color: white;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+.menuNavegacion li:hover{
+    color: yellow;
+    
+}
